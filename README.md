@@ -1,6 +1,6 @@
 # Shogun Defense
 
-A feudal Japan–themed mini-game built on top of Hakim El Hattab’s original **Core** canvas game. Defend your position on the riverbank by guiding a samurai guard, deflecting incoming attacks, and collecting vital supplies during the chaos of battle.
+A feudal Japan-themed mini-game built on top of Hakim El Hattab’s original **Core** canvas game. Defend your position on the riverbank by guiding a samurai guard, deflecting incoming attacks, and collecting vital supplies during the chaos of battle.
 
 The game has been reworked from the original Death Star version into a historical woodblock-inspired experience based around **Takeda Shingen’s attack on Suwa Yorishige**, drawing visual inspiration from Utagawa Kuniyoshi’s print *Takeda Shingen Destroys Suwa Yorishige in Battle*.
 
