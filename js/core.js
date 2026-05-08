@@ -753,7 +753,7 @@ var Core = new function(){
 			status.innerHTML = scoreText;
 
 			// 1) WIN?
-			if( score >= 2000 && playing ) {
+			if( score >= 3000 && playing ) {
 				playing = false;
 
 				panels.style.display = 'none';
